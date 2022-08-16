@@ -9897,10 +9897,10 @@
   "resolved" "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz"
   "version" "1.0.3"
 
-"sqlite3@5.0.10":
-  "integrity" "sha512-xG4XPp7+b/lIlb/acs4XzBmmahI1Qq3Yhy+jZnZJivwB6DXpoOpGR6QinRbsQkHJIvMZyUsJDXouSva/JXcWFA=="
-  "resolved" "https://registry.npmjs.org/sqlite3/-/sqlite3-5.0.10.tgz"
-  "version" "5.0.10"
+"sqlite3@5.0.11":
+  "integrity" "sha512-4akFOr7u9lJEeAWLJxmwiV43DJcGV7w3ab7SjQFAFaTVyknY3rZjvXTKIVtWqUoY4xwhjwoHKYs2HDW2SoHVsA=="
+  "resolved" "https://registry.npmjs.org/sqlite3/-/sqlite3-5.0.11.tgz"
+  "version" "5.0.11"
   dependencies:
     "@mapbox/node-pre-gyp" "^1.0.0"
     "node-addon-api" "^4.2.0"
